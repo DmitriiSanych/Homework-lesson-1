@@ -1,0 +1,15 @@
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\bin\Debug\net6.0\Task 6.exe
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\bin\Debug\net6.0\Task 6.deps.json
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\bin\Debug\net6.0\Task 6.runtimeconfig.json
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\bin\Debug\net6.0\Task 6.dll
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\bin\Debug\net6.0\Task 6.pdb
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\obj\Debug\net6.0\Task 6.csproj.AssemblyReference.cache
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\obj\Debug\net6.0\Task 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\obj\Debug\net6.0\Task 6.AssemblyInfoInputs.cache
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\obj\Debug\net6.0\Task 6.AssemblyInfo.cs
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\obj\Debug\net6.0\Task 6.csproj.CoreCompileInputs.cache
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\obj\Debug\net6.0\Task 6.dll
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\obj\Debug\net6.0\refint\Task 6.dll
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\obj\Debug\net6.0\Task 6.pdb
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\obj\Debug\net6.0\Task 6.genruntimeconfig.cache
+D:\Документы\GeeKBrains\Языки программированя Семинар\Homework lesson 1\Task 6\obj\Debug\net6.0\ref\Task 6.dll
